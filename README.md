@@ -1,3 +1,11 @@
+<p># exictel_assignment
+This project is made by using laravel 8.0
+http://127.0.0.1:8000/map - this page is for entering the address.
+http://127.0.0.1:8000/show - this page is for showing the lat long by fetching the same from the google map API.
+</p>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
